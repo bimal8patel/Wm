@@ -322,7 +322,7 @@
         <value name="node_type">unknown</value>
         <value name="node_subtype">unknown</value>
         <value name="is_public">false</value>
-        <value name="field_name">4thBranch</value>
+        <value name="field_name">4th Branch with updates</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
@@ -355,16 +355,16 @@
 
   <!-- nodes -->
 
-<MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/4thBranch;1;0">
+<MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/4th Branch with updates;1;0">
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">checking 4th branch</value>
+  <value name="xml">4th branch changed 2nd time</value>
   <record name="type" javaclass="com.wm.util.Values">
-    <value name="node_type">record</value>
+    <value name="node_type">unknown</value>
     <value name="node_subtype">unknown</value>
     <value name="is_public">false</value>
-    <value name="field_name">4thBranch</value>
+    <value name="field_name">4th Branch with updates</value>
     <value name="field_type">string</value>
     <value name="field_dim">0</value>
     <value name="nillable">true</value>
